@@ -37,3 +37,4 @@ C:\Users\a502939\Programming_Assignments\MyWeatherApp\bin\Debug\net9.0\publish\a
 C:\Users\a502939\Programming_Assignments\MyWeatherApp\bin\Debug\net9.0\publish\MyWeatherApp.deps.json
 C:\Users\a502939\Programming_Assignments\MyWeatherApp\bin\Debug\net9.0\publish\MyWeatherApp.runtimeconfig.json
 C:\Users\a502939\Programming_Assignments\MyWeatherApp\bin\Debug\net9.0\publish\MyWeatherApp.staticwebassets.endpoints.json
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\obj\Debug\net9.0\MyWeatherApp.sourcelink.json
