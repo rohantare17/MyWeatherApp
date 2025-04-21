@@ -1,0 +1,9 @@
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\MyWeatherApp.exe
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\appsettings.Development.json
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\appsettings.json
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\MyWeatherApp.dll
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\MyWeatherApp.deps.json
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\MyWeatherApp.runtimeconfig.json
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\MyWeatherApp.pdb
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\a502939\Programming_Assignments\MyWeatherApp\publish\Microsoft.OpenApi.dll

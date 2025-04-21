@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "q/HJJdaXvbAQJ56PbTKZ2KlLKrbBJd4maaxs6LnY3zE=",
+  "Source": "MyWeatherApp",
+  "BasePath": "_content/MyWeatherApp",
+  "Mode": "Default",
+  "ManifestType": "Publish",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

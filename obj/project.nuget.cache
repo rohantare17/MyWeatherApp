@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "LGwq69XjBX4=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\a502939\\Programming_Assignments\\MyWeatherApp\\MyWeatherApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\a502939\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.4\\microsoft.aspnetcore.openapi.9.0.4.nupkg.sha512",
+    "C:\\Users\\a502939\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}
